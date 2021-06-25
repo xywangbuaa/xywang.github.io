@@ -15,17 +15,99 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="https://kit.fontawesome.com/a24320d871.js" crossorigin="anonymous"></script>
+</head>
   <style>
-    body {
-        background-color: #d8e2dc;
-        font-family:"Oswald";
-        /* margin:0; padding:0; height:100%; */
+    :root {
+        --primary-color: #1B6FC2;
+        --secondary-color: #536390;
+        --font-color: #23476A;
+        --bg-color: #d8e2dc;
+        --heading-color: #292922;
     }
-    /* html {margin:0; padding:0; height:100%} */
-    div {height:auto; overflow:auto}  
-    .container ::-webkit-scrollbar {width: 0px;}
-    
-  </style>
+
+    [data-theme="dark"] {
+        --primary-color: #66CCCC;
+        --secondary-color: #818cab;
+        --font-color: #CCCCCC;
+        --bg-color: #2C2C2C;
+        --heading-color: #818cab;
+    }
+
+    hr {
+        display: block;
+        margin-top: 2.5em;
+        margin-bottom: 0.5em;
+        margin-left: auto;
+        margin-right: auto;
+        border-style: inset;
+        border-width: .5px;
+    }
+
+    body {
+        background-color: var(--bg-color);
+        color: var(--font-color);
+    }
+
+    a {
+        color: var(--primary-color);
+    }
+
+    a:hover {
+        color: var(--primary-color);
+    }
+
+
+    .theme-switch {
+        display: inline-block;
+        top: 7px;
+        height: 27px;
+        right: 70px;
+        position: absolute;
+        width: 32px;
+    }
+
+    .theme-switch input {
+        display: none;
+    }
+
+    .slider {
+        background-color: #b3b3b3;
+        bottom: 0;
+        cursor: pointer;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 12px;
+        transition: .4s;
+    }
+
+    .slider:before {
+        background-color: #FEFDF9;
+        top: 0;
+        content: "";
+        height: 15px;
+        left: 0px;
+        position: absolute;
+        transition: .4s;
+        width: 15px;
+    }
+
+    input:checked+.slider {
+        background-color: #66CCCC;
+    }
+
+    input:checked+.slider:before {
+        transform: translateX(17px);
+    }
+
+    .slider.round {
+        border-radius: 34px;
+    }
+
+    .slider.round:before {
+        border-radius: 50%;
+    }
+</style>
   
 </head>
 <body>
@@ -58,127 +140,129 @@
 	  </div>
 	</nav>
   
-  <!-- Page Content -->
-    <div class="container">
-
+  <div class="container">
+    <div class="row">
+        <!-- Entries Column -->
+        <div class="col-md-3">
+            <!-- Contact Info on the Sidebar and image -->
+            <div style="font-family: Arial, Helvetica, sans-serif; font-size: 24px;"><b>Fangxin Liu @ Alex</b></div>
+            <br>
+            <img class="img-responsive" src="xinhuan.jpg" height="400" width="400" alt=""><br>
+            <p>PhD student<br>
+                <a href="https://acalab.sjtu.edu.cn/">ACA Lab</a>, SEIEE<br>
+                Shanghai Jiao Tong University<br></p>
+            <p>
+              <b>Email:</b> <a href="mailto:liufangxin@sjtu.edu.cn">liufangxin@sjtu.edu.cn</a><br>
+              <b>Wechat:</b> lfx920701<br>
+              <b>Office:</b> SEIEE 3-125, SJTU
+            </p>
+            <p><a href="https://j.map.baidu.com/fc/Sil"><i class="fas fa-map-marked-alt" aria-hidden="true"></i></a> 800 DongChuan Road, SEIEE Building #03-125, Minhang District, Shanghai  </p>
+            <dd><a href="https://weibo.com/u/1314085552">Weibo</a></dd> 
+            <dd><a href="https://github.com/liufangxin99">Github</a></dd> 
+            <dd><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></dd> 
+            <dd><a href="#">Twitter</a></dd>
+            <dd><a href="#">LinkedIn</a></dd>
+        </div>
+        <!-- main info -->
         <div class="row">
+            <div class="col-md-8">
+                <div style="margin-top:5vh; text-align:justify;">
+                    <div style="text-align:left;">
+                        <div id="Aboutme" style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;"><b>About me</b></div>
+                        <br>
+                        <p>I obtained my master degree in computer science and technology from PLA Science and Technology University in Changsha, Nanjing Province in June 2017. 
+                          Currently, I am chasing my PhD degree of CS. in Acemap group of Shanghai Jiao Tong University Advanced Computer Architecture laboratory (ACA Lab), supervised by Prof. Li Jiang.</p>
+                        <p>The main direction of my current research is in-memory computing, neuromorphic computing and architecture design. 
+                          Specifically, I am devoted to studying DNN/SNN/GNN training/inference acceleration, and nonvolatile memory. 
+                          The papers I read and related resources will be shared on my Github in the near future.</p>
+                    </div>
+                    <hr style="height:2px;border:none;border-top:2px solid #555555;" />
+                    <div style="margin-top:3vh; text-align:left;">
+                        <div id="research" align="justify" , style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;">
+                            <b>Research</b>
+                        </div>
+                        <p> Current research interests focuses on:
+                          <ul>
+                            <li>In-memory Computing (存内计算)</li>
+                            <li>Brian-inspired Neuromorphic Computing (神经模态计算)</li>
+                            <li>Neural Network Acceleration</li>
+                          </ul>
+                        </p>
+                    </div>
+                    <hr style="height:2px;border:none;border-top:2px solid #555555;" />
+                    <div style="text-align:left;">
+                        <div id="news" style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;"><b>What's News</b></div>
+                        <p><strong>Our paper "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration" has been accepted by GLSVLSI'21 !</strong></p>
 
-
-
-            <!-- Contact Info on the Sidebar -->
-            <div class="col-md-4">
-                <div style="font-family: 'Oswald', sans-serif; font-size: 32px;"><b>Fangxin Liu @ Alex</b></div><br>
-                <p><img class="img-responsive" src="xinhuan.jpg" alt="" style="width:270px;"><br></p>
-                <p><b>PhD. Student</b><br>
-                <p>ACA Lab, SEIEE<br>
-                Shanghai Jiao Tong University<br>
-                <br>
-                <b>Email:</b> <a href="mailto:liufangxin@sjtu.edu.cn">liufangxin@sjtu.edu.cn</a><br>
-                <b>Wechat:</b> lfx920701<br>
-                <b>Office:</b> SEIEE 3-125, SJTU
-                </p>
-                <p><a href="https://j.map.baidu.com/fc/Sil"><i class="fas fa-map-marked-alt" aria-hidden="true"></i></a> 800 DongChuan Road, SEIEE Building #03-125, Minhang District, Shanghai  </p>
-                <div class="col-md-4-left" style="margin-top:2%">
-                  <dd><a href="https://weibo.com/u/1314085552">Weibo</a></dd> 
-                  <dd><a href="https://github.com/liufangxin99">Github</a></dd> 
-                  <dd><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></dd> 
-                  <dd><a href="#">Twitter</a></dd>
-                  <dd><a href="#">LinkedIn</a></dd>
+                        <p><strong>Our paper "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration" has been accepted by DAC'21 !</strong></p>
+                    </div>
+                    <hr style="height:2px;border:none;border-top:2px solid #555555;" />
+                    <div style="margin-top:3vh; text-align:left;">
+                        <div id="publication" align="justify" , style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;">
+                            <b>Publication [<a href="https://scholar.google.com/citations?hl=zh-TW&user=0VFxZy0AAAAJ">Google Citation</a>]</b>
+                        </div>
+                        <br>
+                        <li><strong>Fangxin Liu</strong>, et al. "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." In Proceedings of Great Lakes Symposium on VLSI 2021 (GLSVLSI'21).
+                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                        
+                        <br>
+                        <li><strong>Fangxin Liu</strong>, et al. "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." CoRR abs/2103.01705 (2021).
+                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                        
+                        <br>
+                        <li><strong>Fangxin Liu</strong>, et al. "AUSN: Approximately Uniform Quantization by Adaptively Superimposing Non-uniform Distribution for Deep Neural Networks." CoRR abs/2007.03903 (2020).
+                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                        
+                        <br>
+                        <li>Yongbiao Chen, <strong>Fangxin Liu</strong>, et al. "TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval. " CoRR abs/2105.01823 (2021).
+                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                        
+                        <br>
+                        <li>Tao Yang, <strong>Fangxin Liu</strong>, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." In Proceeding of Design Automation Conference (DAC'21).
+                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                        
+                        <!-- <p><strong>[CCF-A]</strong> Tao Yang, <strong>Fangxin Liu</strong>, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." In Proceeding of Design Automation Conference (DAC’21).
+                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                        </p> --> <br>
+                        </li>
+                    </div>
+                    <hr style="height:2px;border:none;border-top:2px solid #555555;" />
+                    <div style="margin-top:3vh; text-align:left;">
+                        <div id="blogs" align="justify" , style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;">
+                            <b>Blog</b>
+                        </div>
+                        <br>
+                        <li><a href="https://github.com/liufangxin99/SearchPaper">Let's read some awesome Quantization / PIM / DeepHash papers.</a>
+                        </li>
+                    </div>
+                    <hr style="height:2px;border:none;border-top:2px solid #555555;" />
+                    <div style="margin-top:3vh; text-align:left;">
+                        <div id="projects" align="justify" , style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;">
+                            <b>Projects</b>
+                        </div>
+                        <br>
+                        <li><strong>[NEURO-MIMETIC LEARNING ALGORITHMS]</strong>: I am currently creating a neuron-mimetic learning framework, dedicated to serving better accuracy and inference efficiency.
+                          </li>
+                          <p align="right">
+                            <small><a href="#"> … see more</a></small></p>
+                    </div>
                 </div>
             </div>
-            
-            
-            <!-- Links on the Sidebar -->
-            
-            
-            
-            <!-- Publications -->
-            <div class="col-md-8" style="height: 100vh;">    
-                <h2 id="aboutme">About Me</h2>
-                <p>
-                  I obtained my master degree in computer science and technology from PLA Science and Technology University in Changsha, Nanjing Province in June 2017. 
-                  Currently, I am chasing my PhD degree of CS. in Acemap group of Shanghai Jiao Tong University Advanced Computer Architecture laboratory (ACA Lab), supervised by Prof. Li Jiang.</p>
-                <p>
-                  The main direction of my current research is in-memory computing, neuromorphic computing and architecture design. 
-                  Specifically, I am devoted to studying DNN/SNN/GNN training/inference acceleration, and nonvolatile memory. 
-                  The papers I read and related resources will be shared on my Github in the near future.</p>
-                <hr style="height:2px;border:none;border-top:2px solid #555555;" />
-                <h2 id="research">Research</h2>
-                <p> Current research interests focuses on:
-                  <ul>
-                    <li>In-memory Computing (存内计算)</li>
-                    <li>Brian-inspired Neuromorphic Computing (神经模态计算)</li>
-                    <li>Neural Network Acceleration</li>
-                  </ul>
-                </p>
+        </div>
+     <hr style="height:2px;border:none;border-top:2px solid #555555;" />
 
-                <hr style="height:2px;border:none;border-top:2px solid #555555;" />
-                <h2 id="news">What's News</h2>
-                
-                <p><strong>Our paper "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration" has been accepted by GLSVLSI'21 !</strong></p>
-
-                <p><strong>Our paper "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration" has been accepted by DAC'21 !</strong></p>
-
-                <p align="right">
-                  <small><a href="#"> … see more</a></small></p>
-
-                <hr style="height:2px;border:none;border-top:2px solid #555555;" />
-                <h2 id="publications">Publications <a href="#"><strong>[Google Citation]</strong></a></h2>
-                <p><strong>Fangxin Liu</strong>, et al. "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." In Proceedings of Great Lakes Symposium on VLSI 2021 (GLSVLSI'21).
-                  [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
-                </p>
-                <p><strong>Fangxin Liu</strong>, et al. "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." CoRR abs/2103.01705 (2021).
-                  [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
-                </p>
-                <p><strong>Fangxin Liu</strong>, et al. "AUSN: Approximately Uniform Quantization by Adaptively Superimposing Non-uniform Distribution for Deep Neural Networks." CoRR abs/2007.03903 (2020).
-                  [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
-                </p>
-                <p>Yongbiao Chen, <strong>Fangxin Liu</strong>, et al. "TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval. " CoRR abs/2105.01823 (2021).
-                  [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
-                </p>
-                <p>Tao Yang, <strong>Fangxin Liu</strong>, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." In Proceeding of Design Automation Conference (DAC'21).
-                  [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
-                </p>
-                <!-- <p><strong>[CCF-A]</strong> Tao Yang, <strong>Fangxin Liu</strong>, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." In Proceeding of Design Automation Conference (DAC’21).
-                  [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
-                </p> -->
-
-                <hr style="height:2px;border:none;border-top:2px solid #555555;" />  
-                <h2 id="blogs">Blog</h2>
-                <p>
-                  <a href="https://github.com/liufangxin99/SearchPaper">Let's read some awesome Quantization / PIM / DeepHash papers.</a>
-                </p>
-
-                <hr style="height:2px;border:none;border-top:2px solid #555555;" />
-                <h2 id="projects">Projects</h2>
-                <p>
-                  <strong>[NEURO-MIMETIC LEARNING ALGORITHMS]</strong>: I am currently creating a neuron-mimetic learning framework, dedicated to serving better accuracy and inference efficiency.
-                  <p align="right">
-                    <small><a href="#"> … see more</a></small></p>
-                </p>
-                
-                <!-- <hr style="height:2px;border:none;border-top:2px solid #555555;" />
-                <h2 id="award">Awards</h2> -->
-                
-                <!-- <strong>Peer-reviewed</strong><br/>  -->
-
-                <!-- <ul>
-                <li class="paper" words="add, your, keywords, here"><a href="#">Full title</a> Names of the authors</li>
-                </ul> -->
-            
-                <!-- <strong>Technical Reports</strong><br/> -->
-                <!-- <ul> -->
-                <!-- <li class="paper" words="add, your, keywords, here"><a href="#">Full title</a>. Details of the report</li> -->
-                <!-- </ul> -->
-            </div>
-
-
+     <div>
+      <!-- <img class="img-fluid" src="/images/logo/lab-logo.png"
+       style="max-width: 100px;"> -->
+      <p></p> 
+      <img src="SJTU_logo_red.png"
+       style="max-width: 275px;float:rigleftht;"><img src="acalab.png"
+       style="max-width: 310px;float:rigleftht;">
     </div>
 
-    <!-- /.container -->
-    <hr style="height:2px;border:none;border-top:2px solid #555555; float:bottom;" />  
-    <!-- Other people may like it too! -->
-    <p style="color:#b5bec9;font-size:0.8em; float:right;">Thanks to <a style="color:#b5bec9;font-size:0.8em;" href="https://mavroud.is/"> Vasilios Mavroudis</a> for the <a style="color:#b5bec9;font-size:0.8em;" href="https://github.com/mavroudisv/plain-academic"> template</a></p> 
+    <div>
+      <p style="font-size:0.8em; float:right; color:#b5bec9;"> Thanks to <u> <a style="color:#b5bec9" target="_blank" href="https://mavroud.is/">Vasilios Mavroudis</a></u> for the <u><a style="color:#b5bec9" target="_blank" href="https://github.com/mavroudisv/plain-academic">template</a></u>!</p>
+  </div>
     
 </body>
 
