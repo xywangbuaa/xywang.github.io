@@ -136,6 +136,14 @@
           <li><a href="#projects">Project</a></li>
 				  <li><a href="#">CV</a></li> 
 		  </ul>
+
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox">
+            <input type="checkbox" id="checkbox">
+            <div class="slider round"></div>
+        </label>
+    </div>
+    
 		</div>
 	  </div>
 	</nav>
@@ -194,8 +202,11 @@
                     <div style="text-align:left;">
                         <div id="news" style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;"><b>What's News</b></div>
                         <p><strong>Our paper "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration" has been accepted by GLSVLSI'21 !</strong></p>
-
+                        <p><small>Apr./12/2021</small></p>
+                        <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
                         <p><strong>Our paper "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration" has been accepted by DAC'21 !</strong></p>
+                        <p><small>Feb./20/2021</small></p>
+                        <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
                         <p align="right">
                           <small><a href="#"> … see more</a></small></p>
                     </div>
@@ -206,23 +217,23 @@
                         </div>
                         <br>
                         <li><strong>Fangxin Liu</strong>, et al. "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." In Proceedings of Great Lakes Symposium on VLSI 2021 (GLSVLSI'21).
-                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                          [Slides] <a href="https://dl.acm.org/doi/abs/10.1145/3453688.3461491">[Link]</a> [Code]
                         
                         <br>
                         <li><strong>Fangxin Liu</strong>, et al. "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." CoRR abs/2103.01705 (2021).
-                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                          [Slides] <a href="#">[Link]</a> [Code]
                         
                         <br>
                         <li><strong>Fangxin Liu</strong>, et al. "AUSN: Approximately Uniform Quantization by Adaptively Superimposing Non-uniform Distribution for Deep Neural Networks." CoRR abs/2007.03903 (2020).
-                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                          [Slides] <a href="#">[Link]</a> [Code]
                         
                         <br>
                         <li>Yongbiao Chen, <strong>Fangxin Liu</strong>, et al. "TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval. " CoRR abs/2105.01823 (2021).
-                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                          [Slides] <a href="#">[Link]</a> [Code]
                         
                         <br>
                         <li>Tao Yang, <strong>Fangxin Liu</strong>, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." In Proceeding of Design Automation Conference (DAC'21).
-                          [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
+                          [Slides] <a href="#">[Link]</a> [Code]
                         
                         <!-- <p><strong>[CCF-A]</strong> Tao Yang, <strong>Fangxin Liu</strong>, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." In Proceeding of Design Automation Conference (DAC’21).
                           [Slides] <a href="http://www.w3school.com.cn/">[Link]</a> [Code]
@@ -266,6 +277,42 @@
     <div>
       <p style="font-size:0.8em; float:right; color:#b5bec9;"> Thanks to <u> <a style="color:#b5bec9" target="_blank" href="https://mavroud.is/">Vasilios Mavroudis</a></u> for the <u><a style="color:#b5bec9" target="_blank" href="https://github.com/mavroudisv/plain-academic">template</a></u>!</p>
   </div>
+
+
+  <script>
+    const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
+
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+        }
+    }
+
+    toggleSwitch.addEventListener('change', switchTheme, true);
+
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark'); //add this
+        } else {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light'); //add this
+        }
+    }
+
+
+    const currentTheme = localStorage.getItem('theme') ? localStorage.getItem('theme') : null;
+
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+  </script>
     
 </body>
 
