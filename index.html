@@ -15,6 +15,22 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="https://kit.fontawesome.com/a24320d871.js" crossorigin="anonymous"></script>
+  
+  <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+  <!--start-smooth-scrolling-->
+  <script type="text/javascript" src="js/move-top.js"></script>
+  <script type="text/javascript" src="js/easing.js"></script>	
+  <script type="text/javascript">
+      jQuery(document).ready(function($) {
+        $(".scroll").click(function(event){		
+          event.preventDefault();
+          $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+        });
+      });
+  </script>
+
+
 </head>
   <style>
     :root {
@@ -107,10 +123,32 @@
     .slider.round:before {
         border-radius: 50%;
     }
-</style>
-  
-</head>
-<body>
+    .box {
+      max-height:0;
+      overflow:hidden;
+    }
+    :checked ~ .box {
+      max-height:666px;
+    }
+    input[type="checkbox"] {
+      display:none;
+    }
+    :checked ~ .check-in {
+      display:none;
+    }
+    :checked ~ .check-out {
+      display:inline-block;
+    }
+    .check-out {
+      display:none;
+    }
+    .check-in,.check-out {
+      color:#34538b;
+      cursor:pointer;
+    }
+    </style>
+    </head>
+    <body>
 
 
 <!-- Navigation -->
@@ -128,12 +166,12 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 		  <ul class="nav navbar-nav">
-				  <li><a class="nav-item waves-effect waves-light active" href="index.html">Home</a></li>
-          <li><a class="nav-item waves-effect waves-light" href="#research">Research</a></li> 
-				  <li><a class="nav-item waves-effect waves-light" href="#publication">Publication</a></li>
-          <li><a class="nav-item waves-effect waves-light" href="#blogs">Blog</a></li>
-          <li><a class="nav-item waves-effect waves-light" href="#news">News</a></li>
-          <li><a class="nav-item waves-effect waves-light" href="#projects">Project</a></li>
+				  <li><a class="nav-item waves-effect waves-light active scroll" href="index.html">Home</a></li>
+          <li><a class="nav-item waves-effect waves-light scroll" href="#research">Research</a></li> 
+				  <li><a class="nav-item waves-effect waves-light scroll" href="#publication">Publication</a></li>
+          <li><a class="nav-item waves-effect waves-light scroll" href="#blogs">Blog</a></li>
+          <li><a class="nav-item waves-effect waves-light scroll" href="#news">News</a></li>
+          <li><a class="nav-item waves-effect waves-light scroll" href="#projects">Project</a></li>
           <li><a href="./img/Wechat_QR_code.jpg" target="_blank">Wechat</a></li>
           <li><a href="#" target="_blank">CV</a></li>
 				  <!-- <li><a href="./files/FangxinLiu-CV.pdf" target="_blank">CV</a></li>  -->
@@ -223,9 +261,11 @@
                           </ul>
                         </p>
                     </div>
+                    
                     <hr style="height:2px;border:none;border-top:2px solid #555555;" />
                     <div style="text-align:left;">
                         <div id="news" style="font-family: Arial, Helvetica, sans-serif; font-size: 23px;"><b>What's News</b></div>
+                        
                         <p><strong>I'm awarded National Scholarship again!</strong></p>
                         <p><small>Sep./27/2022</small></p>
                         <p><strong>Our paper "Randomize and Match" has been accepted by ICCD 2022!</strong></p>
@@ -246,33 +286,39 @@
                         <p><small>Feb./22/2022</small></p>
                         <p><strong>Our paper has been selected by DATE 2022 as Best Paper in the T Track!</strong></p>
                         <p><small>Feb./04/2022</small></p>
-                        <p><strong>Our paper "DynSNN" has been accepted by ICASSP 2022!</strong></p>
-                        <p><small>Jan./21/2022</small></p>
-                        <p><strong>Our paper "SpikeConverter" has been accepted by AAAI 2022!</strong></p>
-                        <p><small>Dec./01/2021</small></p>
-                        <p><strong>Two papers have been accepted by DATE 2022!</strong></p>
-                        <p><small>Nov./11/2021</small></p>
-                        <p><strong>Our paper "SSTDP" has been accepted by Frontiers in Neuroscience!</strong></p>
-                        <p><small>Oct./01/2021</small></p>
-                        <p><strong>I'm awarded National Scholarship!</strong></p>
-                        <p><small>Sep./23/2021</small></p>
-                        <p><strong>Our paper "HAWIS" has been accepted by ASP-DAC 2022!</strong></p>
-                        <p><small>Sep./12/2021</small></p>
-                        <p><strong>Our paper "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network" has been accepted by ICCD'21 !</strong></p>
-                        <p><small>Aug./20/2021</small></p>
-                        <p><strong>Our paper "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point" has been accepted by ICCV'21 !</strong></p>
-                        <p><small>Jul./23/2021</small></p>
-                        <p><strong>Our paper "Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator" has been accepted by ICCAD'21 !</strong></p>
-                        <p><small>Jul./13/2021</small></p>
-                        <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
-                        <p><strong>Our paper "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration" has been accepted by GLSVLSI'21 !</strong></p>
-                        <p><small>Apr./12/2021</small></p>
-                        <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
-                        <p><strong>Our paper "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration" has been accepted by DAC'21 !</strong></p>
-                        <p><small>Feb./20/2021</small></p>
-                        <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
-                        <p align="right">
-                          <small><a href="#"> … see more</a></small></p>
+                        <input id="check" type="checkbox">
+                        <div class="box">
+                          <p><strong>Our paper "DynSNN" has been accepted by ICASSP 2022!</strong></p>
+                          <p><small>Jan./21/2022</small></p>
+                          <p><strong>Our paper "SpikeConverter" has been accepted by AAAI 2022!</strong></p>
+                          <p><small>Dec./01/2021</small></p>
+                          <p><strong>Two papers have been accepted by DATE 2022!</strong></p>
+                          <p><small>Nov./11/2021</small></p>
+                          <p><strong>Our paper "SSTDP" has been accepted by Frontiers in Neuroscience!</strong></p>
+                          <p><small>Oct./01/2021</small></p>
+                          <p><strong>I'm awarded National Scholarship!</strong></p>
+                          <p><small>Sep./23/2021</small></p>
+                          <p><strong>Our paper "HAWIS" has been accepted by ASP-DAC 2022!</strong></p>
+                          <p><small>Sep./12/2021</small></p>
+                          <p><strong>Our paper "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network" has been accepted by ICCD'21 !</strong></p>
+                          <p><small>Aug./20/2021</small></p>
+                          <p><strong>Our paper "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point" has been accepted by ICCV'21 !</strong></p>
+                          <p><small>Jul./23/2021</small></p>
+                          <p><strong>Our paper "Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator" has been accepted by ICCAD'21 !</strong></p>
+                          <p><small>Jul./13/2021</small></p>
+                          <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
+                          <p><strong>Our paper "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration" has been accepted by GLSVLSI'21 !</strong></p>
+                          <p><small>Apr./12/2021</small></p>
+                          <!-- <hr style="height:1px;border:none;border-top:1px solid #9d9d9d;" /> -->
+                          <p><strong>Our paper "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration" has been accepted by DAC'21 !</strong></p>
+                          <p><small>Feb./20/2021</small></p>
+                        </div>
+                        <label for="check" class="check-in">... See More</label>
+                        <label for="check" class="check-out" style="margin-top:3vh;">Folding ...</label>                        
+
+
+
+                        
                     </div>
                     <hr style="height:2px;border:none;border-top:2px solid #555555;" />
                     <div style="margin-top:3vh; text-align:left;">
