@@ -38,7 +38,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang, "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks." to appear in 36th AAAI Conference on Artificial Intelligence ( <font color="#2a9d8f">AAAI'22 (Oral)</font> ). **(Acceptance Rate: 15%).** [Code](/files/%AAAI-22%SpikeConverter_poster.pdf) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20061) [News](href="https://mp.weixin.qq.com/s/OZ-dsdwqGqUJWUqQretclQ") [Talk](href="https://www.bilibili.com/video/BV1fr4y1s7dK")
+**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang, "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks." to appear in 36th AAAI Conference on Artificial Intelligence ( <font color="#2a9d8f">AAAI'22 (Oral)</font> ). **(Acceptance Rate: 15%).** [Poster](/files/%5BAAAI-22%5DSpikeConverter_poster.pdf) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20061) [News](href="https://mp.weixin.qq.com/s/OZ-dsdwqGqUJWUqQretclQ") [Talk](href="https://www.bilibili.com/video/BV1fr4y1s7dK")
 
 --------
 
@@ -58,7 +58,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Slides](/files/%ICCAD-21%Bit-Transformer_preprint.pdf) [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
+**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Slides](/files/%5BICCAD-21%5DBit-Transformer_preprint.pdf) [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
 
 --------
 
@@ -72,16 +72,16 @@ Yongbiao Chen, **Fangxin Liu**, et al. "Supervised Contrastive Vehicle Quantizat
 --------
 
 
-Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(Best Paper Award)).** [Slides](/files/%DATE-22%STW_slides.pdf) [Link](/files/%DATE-22%STW_preprint.pdf)
+Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(Best Paper Award)).** [Slides](/files/%5BDATE-22%5DSTW_slides.pdf) [Link](/files/%5BDATE-22%5DSTW_preprint.pdf)
 
 --------
 
 
-Tao Yang, **Fangxin Liu**, et al. "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(nominated for best paper award).** [Slides](/files/%DATE-22%DTQAtten_slides.pdf) [Link](/files/%DATE-22%DTQAtten_preprint.pdf)
+Tao Yang, **Fangxin Liu**, et al. "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(nominated for best paper award).** [Slides](/files/%5BDATE-22%5DDTQAtten_slides.pdf) [Link](/files/%5BDATE-22%5DDTQAtten_slides.pdf)
 
 --------
 
-Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine." to appear in 27th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASP-DAC'22 </font> ). **(Acceptance Rate: 36.5%).** [Slides](/files/%ASPDAC-22%HAWIS_slides.pdf) [Link](/files/%ASPDAC-22%HAWIS_preprint.pdf)
+Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine." to appear in 27th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASP-DAC'22 </font> ). **(Acceptance Rate: 36.5%).** [Slides](/files/%5BASPDAC-22%5DHAWIS_slides.pdf) [Link](/files/%5BASPDAC-22%5DHAWIS_preprint.pdf)
 
 --------
 
