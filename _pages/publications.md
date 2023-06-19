@@ -38,7 +38,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang, "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks." to appear in 36th AAAI Conference on Artificial Intelligence ( <font color="#2a9d8f">AAAI'22 (Oral)</font> ). **(Acceptance Rate: 15%).** [Code](/files/%AAAI-22%SpikeConverter_poster.pdf) [Link](https://www.aaai.org/AAAI22Papers/AAAI-364.LiuF.pdf)
+**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang, "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks." to appear in 36th AAAI Conference on Artificial Intelligence ( <font color="#2a9d8f">AAAI'22 (Oral)</font> ). **(Acceptance Rate: 15%).** [Code](/files/%AAAI-22%SpikeConverter_poster.pdf) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20061) [News](href="https://mp.weixin.qq.com/s/OZ-dsdwqGqUJWUqQretclQ") [Talk](href="https://www.bilibili.com/video/BV1fr4y1s7dK")
 
 --------
 
