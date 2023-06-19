@@ -14,3 +14,4 @@ redirect_from:
 * Wu Wen Jun Honorary Doctoral Scholarship, 2021.
 * Best Paper Award from DATE, 2022.
 * Spark Award from HUAWEI, 2022.
+* Shanghai Outstanding Graduate Award, 2022.
