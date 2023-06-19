@@ -46,19 +46,19 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang, "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." to appear in 39th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'21 </font> ). **(Acceptance Rate: 24.4%).** [Slides](/files/%ICCD-21%SME_slides.pdf) [Link](https://ieeexplore.ieee.org/document/9643646)
+**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang, "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." to appear in 39th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'21 </font> ). **(Acceptance Rate: 24.4%).** [Slides](/files/%5BICCD-21%5DSME_slides.pdf) [Link](https://ieeexplore.ieee.org/document/9643646)
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang, "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point.." to appear in International Conference on Computer Vision 2021 ( <font color="#2a9d8f">ICCV'21 </font> ). **(Acceptance Rate: 25.9%).** [Poster](/files/%ICCV-21%AFP_poster.pdf) [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html)
+**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang, "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point.." to appear in International Conference on Computer Vision 2021 ( <font color="#2a9d8f">ICCV'21 </font> ). **(Acceptance Rate: 25.9%).** [Poster](/files/%5BICCV-21%5DAFP_poster.pdf) [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html)
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang,  "Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator." to appear in 40th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'21 </font> ). **(Acceptance Rate: 23.5%).** [Slides](/files/%ICCAD-21%Bit-Transformer_preprint.pdf") [Link](https://ieeexplore.ieee.org/document/9643569)
+**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang,  "Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator." to appear in 40th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'21 </font> ). **(Acceptance Rate: 23.5%).** [Slides](/files/%5BICCAD-21%5DBit-Transformer_preprint.pdf) [Link](https://ieeexplore.ieee.org/document/9643569)
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Slides](/files/%ICCAD-21%Bit-Transformer_preprint.pdf") [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
+**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Slides](/files/%ICCAD-21%Bit-Transformer_preprint.pdf) [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
 
 --------
 
@@ -72,16 +72,16 @@ Yongbiao Chen, **Fangxin Liu**, et al. "Supervised Contrastive Vehicle Quantizat
 --------
 
 
-Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22< </font> ). **(Best Paper Award)).** [Slides](/files/%DATE-22%STW_slides.pdf") [Link](/files/%DATE-22%STW_preprint.pdf)
+Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22< </font> ). **(Best Paper Award)).** [Slides](/files/%DATE-22%STW_slides.pdf) [Link](/files/%DATE-22%STW_preprint.pdf)
 
 --------
 
 
-Tao Yang, **Fangxin Liu**, et al. "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(nominated for best paper award).** [Slides](/files/%DATE-22%DTQAtten_slides.pdf") [Link](/files/%DATE-22%DTQAtten_preprint.pdf)
+Tao Yang, **Fangxin Liu**, et al. "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(nominated for best paper award).** [Slides](/files/%DATE-22%DTQAtten_slides.pdf) [Link](/files/%DATE-22%DTQAtten_preprint.pdf)
 
 --------
 
-Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine." to appear in 27th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASP-DAC'22 </font> ). **(Acceptance Rate: 36.5%).** [Slides](/files/%ASPDAC-22%HAWIS_slides.pdf") [Link](/files/%ASPDAC-22%HAWIS_preprint.pdf)
+Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine." to appear in 27th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASP-DAC'22 </font> ). **(Acceptance Rate: 36.5%).** [Slides](/files/%ASPDAC-22%HAWIS_slides.pdf) [Link](/files/%ASPDAC-22%HAWIS_preprint.pdf)
 
 --------
 
