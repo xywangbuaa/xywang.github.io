@@ -72,7 +72,7 @@ Yongbiao Chen, **Fangxin Liu**, et al. "Supervised Contrastive Vehicle Quantizat
 --------
 
 
-Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22< </font> ). **(Best Paper Award)).** [Slides](/files/%DATE-22%STW_slides.pdf) [Link](/files/%DATE-22%STW_preprint.pdf)
+Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(Best Paper Award)).** [Slides](/files/%DATE-22%STW_slides.pdf) [Link](/files/%DATE-22%STW_preprint.pdf)
 
 --------
 
