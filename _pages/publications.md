@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
+--------
+**Fangxin Liu**=, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang, "HyperAttack: An Efficient Attack Framework for HyperDimensional Computing ." to appear in 60th Design Automation Conference ( <font color="#2a9d8f">DAC'23</font>). **(Acceptance Rate: 23%).**
 
 --------
 **Fangxin Liu**, Zongwu Wang, Yongbiao Chen, Li Jiang, "Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs ." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'22</font>). **(Acceptance Rate: 24%).**
@@ -58,7 +60,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Slides](/files/%5BICCAD-21%5DBit-Transformer_preprint.pdf) [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
+**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
 
 --------
 
