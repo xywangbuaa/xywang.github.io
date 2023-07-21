@@ -15,3 +15,4 @@ redirect_from:
 * Best Paper Award from DATE, 2022.
 * Spark Award from HUAWEI, 2022.
 * Shanghai Outstanding Graduate Award, 2022.
+* SJTU Principal's Award, 2023
