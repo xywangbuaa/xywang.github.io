@@ -16,7 +16,7 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Jul./21/2022` Our paper "HyperAttack" has been accepted by DAC 2023!
+`Jul./21/2022` Our paper "HyperNode" has been accepted by ICCAD 2023!
 
 `Jul./18/2022` Our paper "ERA-BS" has been accepted by TC 2023!
 
