@@ -10,7 +10,7 @@ redirect_from:
 
 Fangxin Liu is an Assistant Professor at Shanghai Jiao Tong University (SJTU), specializing in neural network acceleration (e.g., neural network compression and SW/HW co-design.), in-memory computing, and brain-inspired neuromorphic computing.
 
-<!-- He obtained his Ph.D. Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//). -->
+He obtained his Ph.D. Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//).
 
 The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future.
 
