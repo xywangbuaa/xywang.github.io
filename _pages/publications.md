@@ -7,6 +7,10 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
 --------
+**Fangxin Liu**=, Ning Yang=, Li Jiang, "PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'23 </font> ). **(Acceptance Rate: 28%).** 
+
+--------
+
 **Fangxin Liu**=, Haomin Li=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ). **(Acceptance Rate: 23%).** 
 
 --------

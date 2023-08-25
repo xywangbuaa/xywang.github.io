@@ -84,7 +84,7 @@ author:
   avatar           : "xinhuan.jpg" # "lhm.jpg"
   bio              : "Assistant Professor @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
   location1        : "800 DongChuan Road,"
-  location2        : "SEIEE Building #03-125,"
+  # location2        : "SEIEE Building #03-125,"
   location3        : "Minhang District, Shanghai"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   tumblr           :
   # twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : "https://weibo.com/u/1314085552"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
