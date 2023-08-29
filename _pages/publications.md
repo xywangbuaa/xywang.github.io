@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
 <<<<<<< HEAD
+<<<<<<< HEAD
 --------
 **Fangxin Liu**=, Ning Yang=, Li Jiang, "PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'23 </font> ). **(Acceptance Rate: 28%).** 
 
@@ -20,6 +21,8 @@ Haomin Li=, **Fangxin Liu**=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node 
 
 --------
 **Fangxin Liu**=, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang, "HyperAttack: An Efficient Attack Framework for HyperDimensional Computing ." to appear in 60th Design Automation Conference ( <font color="#2a9d8f">DAC'23</font>). **(Acceptance Rate: 23%).**
+=======
+>>>>>>> parent of b657e2c (Update publications.md)
 =======
 >>>>>>> parent of b657e2c (Update publications.md)
 
