@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-Haomin Li=, **Fangxin Liu**=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ). **(Acceptance Rate: 23%).** 
+**Fangxin Liu**=, Haomin Li=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ). **(Acceptance Rate: 23%).** 
 
 --------
 **Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang, "ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity." to appear in IEEE Transactions on Computers 2023 ( <font color="#2a9d8f">TC'2023</font>). **(CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/10177200)
