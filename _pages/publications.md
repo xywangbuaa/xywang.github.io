@@ -6,25 +6,6 @@ author_profile: true
 ---
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
-<<<<<<< HEAD
-<<<<<<< HEAD
---------
-**Fangxin Liu**=, Ning Yang=, Li Jiang, "PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'23 </font> ). **(Acceptance Rate: 28%).** 
-
---------
-
-**Fangxin Liu**=, Haomin Li=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ). **(Acceptance Rate: 23%).** 
-
---------
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang, "ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity." to appear in IEEE Transactions on Computers 2023 ( <font color="#2a9d8f">TC'2023</font>). **(CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/10177200)
-
-
---------
-**Fangxin Liu**=, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang, "HyperAttack: An Efficient Attack Framework for HyperDimensional Computing ." to appear in 60th Design Automation Conference ( <font color="#2a9d8f">DAC'23</font>). **(Acceptance Rate: 23%).**
-=======
->>>>>>> parent of b657e2c (Update publications.md)
-=======
->>>>>>> parent of b657e2c (Update publications.md)
 
 --------
 **Fangxin Liu**, Zongwu Wang, Yongbiao Chen, Li Jiang, "Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs ." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'22</font>). **(Acceptance Rate: 24%).**
