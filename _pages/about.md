@@ -10,17 +10,20 @@ redirect_from:
 
 Fangxin Liu is an Assistant Professor at Shanghai Jiao Tong University (SJTU), specializing in neural network acceleration (e.g., neural network compression and SW/HW co-design.), in-memory computing, and brain-inspired neuromorphic computing.
 
-He obtained his Ph.D. Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//).
+He obtained his Ph.D. Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. 
+<!-- You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//). -->
 
 The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future.
 
 News
 -----------
-`Jul./21/2022` Our paper "HyperAttack" has been accepted by DAC 2023!
+`Aug./25/2023` Our paper "PSQ" has been accepted by ICCD 2023!
 
-`Jul./18/2022` Our paper "ERA-BS" has been accepted by TC 2023!
+`Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023!
 
-`Feb./24/2022` Our paper "HyperAttack" has been accepted by DAC 2023!
+`Jul./18/2023` Our paper "ERA-BS" has been accepted by TC 2023!
+
+`Feb./24/2023` Our paper "HyperAttack" has been accepted by DAC 2023!
 
 `Nov./18/2022` Our paper "SIMSnn" has been accepted by DATE 2023!
 
