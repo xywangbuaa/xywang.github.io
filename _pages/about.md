@@ -17,6 +17,8 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
+`Sep./09/2023` Our 4 papers have been accepted by ASP-DAC 2023!
+
 `Aug./25/2023` Our paper "PSQ" has been accepted by ICCD 2023!
 
 `Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023!

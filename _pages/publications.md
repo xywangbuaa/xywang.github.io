@@ -6,6 +6,20 @@ author_profile: true
 ---
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
+
+--------
+**Fangxin Liu**=, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Acceptance Rate: 29%).** 
+
+--------
+**Fangxin Liu**=, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang, "TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Acceptance Rate: 29%).** 
+
+--------
+Shiyuan Huang=, **Fangxin Liu**=, Tian Li, Zongwu Wang, Haomin Li, Li Jiang, "TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Acceptance Rate: 29%).** 
+
+--------
+Haomin Li=, **Fangxin Liu**=, Yichi Chen, Li Jiang, "HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Acceptance Rate: 29%).** 
+
+
 --------
 **Fangxin Liu**=, Ning Yang=, Li Jiang, "PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'23 </font> ). **(Acceptance Rate: 28%).** 
 
