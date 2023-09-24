@@ -10,6 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 * Conference Reviewers
+  * Transactions on Pattern Analysis and Machine Intelligence (TPMAI)
   * AAAI Conference on Artificial Intelligence (AAAI), 2023
   * Great Lakes Symposium on VLSI (GLSVLSI), 2022
   * Design Automation Conference (DAC), 2022
