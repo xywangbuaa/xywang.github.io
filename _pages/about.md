@@ -17,15 +17,17 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Sep./09/2023` Our 4 papers have been accepted by ASP-DAC 2023!
+`Oct./23/2023` Our paper "SPARK" have been accepted by HPCA 2024! Congratulations to Ning Yang.
 
-`Aug./25/2023` Our paper "PSQ" has been accepted by ICCD 2023!
+`Sep./09/2023` Our 4 papers have been accepted by ASP-DAC 2023! Congratulations to Haomin, Shiyuan, Tian Li.
 
-`Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023!
+`Aug./25/2023` Our paper "PSQ" has been accepted by ICCD 2023! Congratulations to Ning Yang.
+
+`Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023! Congratulations to Haomin.
 
 `Jul./18/2023` Our paper "ERA-BS" has been accepted by TC 2023!
 
-`Feb./24/2023` Our paper "HyperAttack" has been accepted by DAC 2023!
+`Feb./24/2023` Our paper "HyperAttack" has been accepted by DAC 2023! 
 
 `Nov./18/2022` Our paper "SIMSnn" has been accepted by DATE 2023!
 
