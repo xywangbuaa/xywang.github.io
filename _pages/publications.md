@@ -6,17 +6,36 @@ author_profile: true
 ---
 
 
-
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
 
---------
+<!-- |  **HPCA 2024** <br> **(Top Conf. in Comp. Arch.)** | <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>  |
+|  ----  | ----  |
+| 单元格  | 单元格 |
+| 单元格  | 单元格 |
 
-<table><tr ><td bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
-</td></tr></table>
+
+<p align="left"><font size=13 style="background: #F7F7F7">**HPCA 2024** <br> **(Top Conf. in Comp. Arch.)** <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>  </font> </p>  -->
+
+<table><tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>,Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+</td></tr>
+</table>
 <!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
 
-
---------
+<!-- --------
 **Fangxin Liu**=, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
 
 --------
@@ -123,7 +142,7 @@ Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Sear
 
 Tao Yang, **Fangxin Liu**, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." to appear in Design Automation Conference ( <font color="#2a9d8f">DAC'21 </font> ). **(Acceptance Rate: 26.5%).**  [Link](https://ieeexplore.ieee.org/abstract/document/9586231)
 
---------
+-------- -->
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
