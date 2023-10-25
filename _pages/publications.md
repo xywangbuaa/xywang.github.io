@@ -44,29 +44,85 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
-<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
 </td></tr>
 
 
-<tr ><td style="font-size:23px;"><strong>TC 2023</strong><br>(Top Journal in Comp. Arch.)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="#">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
+<tr ><td style="font-size:23px;"><strong>ICCD 2022</strong></td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a>
 </td></tr>
 
 
-<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu</strong>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang<br> <a href="#">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a>
 </td></tr>
 
 
-<tr ><td style="font-size:23px;"><strong>TC 2023</strong><br>(Top Journal in Comp. Arch.)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="#">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
+<tr ><td style="font-size:23px;"><strong>SIGIR 2022</strong><br>(Top Conf. in Information Retrieval)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Haomin Li, Xiaokang Yang, Li Jiang<br> <a href="#">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a>
 </td></tr>
 
 
-<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang<br> <a href="#">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang<br> <a href="#">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized Deep Neural Networks</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Qidong Tang, Tao Yang, Cheng Zhuo<br> <a href="#">PIM-DH: ReRAM based Processing in Memory Architecture for Deep Hashing Acceleration</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang<br> <a href="#">SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>ICASSP 2022</strong><br>(Top Conf. in Signal Processing)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai<br> <a href="#">Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>AAAI'22 (Oral)</strong><br>(Top Conf. in Artificial Intelligence)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang<br> <a href="#">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>Frontiers in Neuroscience, 2021</strong><br>(SCI Tier 2)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="#">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>ICCD 2021</strong></td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang<br> <a href="#">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>ICCV 2021</strong><br>(Top Conf. in Computer Vision)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang<br> <a href="#">Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>ICCAD 2021</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang<br> <a href="#">Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>GLSVLSI 2021</strong></td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="#">IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>ICMR 2022</strong></td><td style="font-size:23px;"> Yongbiao Chen, <strong>Fangxin Liu</strong>, et al.<br> <a href="#">TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>ICMR 2022</strong></td><td style="font-size:23px;" bgcolor="#F7F7F7"> Yongbiao Chen, <strong>Fangxin Liu</strong>, et al.<br> <a href="#">Supervised Contrastive Vehicle Quantization for Efficient Vehicle Retrieval</a>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>DATE 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> Zongwu Wang, <strong>Fangxin Liu</strong>, et al.<br> <a href="#">Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing</a><strong>(Best Paper Award)</strong>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>DATE 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> Tao Yang, <strong>Fangxin Liu</strong>, et al.<br> <a href="#">DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture</a><strong>(Nominated for Best Paper)</strong>
+</td></tr>
+
+<tr ><td style="font-size:23px;"><strong>ASPDAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> Qidong Tang, <strong>Fangxin Liu</strong>, et al.<br> <a href="#">HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> Tao Yang, <strong>Fangxin Liu</strong>, et al.<br> <a href="#">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a>
 </td></tr>
 </table>
 
-to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
+<!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
 
---------
+<!-- --------
 **Fangxin Liu**=, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
 
 --------
@@ -176,4 +232,4 @@ Tao Yang, **Fangxin Liu**, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Co
 --------
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
