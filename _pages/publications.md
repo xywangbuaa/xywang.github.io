@@ -16,23 +16,40 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <p align="left"><font size=13 style="background: #F7F7F7">**HPCA 2024** <br> **(Top Conf. in Comp. Arch.)** <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>  </font> </p>  -->
 
-<table><tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+<table><tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>,Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing.</a>
+
+<tr ><td style="font-size:23px;"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> <strong>Fangxin Liu=</strong>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing.</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks.</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+
+<tr ><td style="font-size:23px;"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;"> Shiyuan Huang=, <strong>Fangxin Liu=</strong>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang<br> <a href="#">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation.</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> Haomin Li=, <strong>Fangxin Liu=</strong>, Yichi Chen, Li Jiang<br> <a href="#">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+
+<tr ><td style="font-size:23px;" ><strong>ICCD 2023</strong></td><td style="font-size:23px;" > Haomin Li=, <strong>Fangxin Liu=</strong>, Ning Yang=, Li Jiang<br> <a href="#">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ICCAD 2023</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> Haomin Li=, <strong>Fangxin Liu=</strong>, Yichi Chen, Li Jiang<br> <a href="#">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a>
 </td></tr>
-<tr ><td font-size=5 bgcolor=gray><strong>HPCA 2024</strong><br>(Top Conf. in Comp. Arch.)</td><td bgcolor=gray> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding.</a>
+
+
+<tr ><td style="font-size:23px;"><strong>TC 2023</strong><br>(Top Journal in Comp. Arch.)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="#">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
 </td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
+</td></tr>
+
+
 </table>
+
 <!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
 
 <!-- --------
