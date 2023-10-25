@@ -48,11 +48,25 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
+<tr ><td style="font-size:23px;"><strong>TC 2023</strong><br>(Top Journal in Comp. Arch.)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="#">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;"><strong>TC 2023</strong><br>(Top Journal in Comp. Arch.)</td><td style="font-size:23px;"> <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="#">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>
+</td></tr>
+
+
+<tr ><td style="font-size:23px;" bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:23px;" bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>
+</td></tr>
 </table>
 
-<!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
+to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
 
-<!-- --------
+--------
 **Fangxin Liu**=, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
 
 --------
@@ -159,7 +173,7 @@ Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Sear
 
 Tao Yang, **Fangxin Liu**, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." to appear in Design Automation Conference ( <font color="#2a9d8f">DAC'21 </font> ). **(Acceptance Rate: 26.5%).**  [Link](https://ieeexplore.ieee.org/abstract/document/9586231)
 
--------- -->
+--------
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
