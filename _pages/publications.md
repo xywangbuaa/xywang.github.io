@@ -40,7 +40,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;" ><strong>IEEE TC 2023</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="[#](https://ieeexplore.ieee.org/document/10177200)">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>  <strong>(CCF Tier A)</strong>
+<tr ><td style="font-size:inherit;" ><strong>IEEE TC 2023</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/10177200">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>  <strong>(CCF Tier A)</strong>
 </td></tr>
 
 
@@ -52,15 +52,15 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu</strong>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang<br> <a href="[#](https://ieeexplore.ieee.org/document/9769275)">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a>  <strong>(CCF Tier A)</strong>
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu</strong>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9769275">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a>  <strong>(CCF Tier A)</strong>
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;" ><strong>SIGIR 2022</strong><br>(Top Conf. in Information Retrieval)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Haomin Li, Xiaokang Yang, Li Jiang<br> <a href="[#](https://dl.acm.org/doi/abs/10.1145/3477495.3531761)">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a>  <strong>(Acceptance Rate: 24%)</strong>
+<tr ><td style="font-size:inherit;" ><strong>SIGIR 2022</strong><br>(Top Conf. in Information Retrieval)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Haomin Li, Xiaokang Yang, Li Jiang<br> <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a>  <strong>(Acceptance Rate: 24%)</strong>
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang<br> <a href="[#](https://ieeexplore.ieee.org/document/972425)">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a>  <strong>(CCF Tier A)</strong>
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/972425">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a>  <strong>(CCF Tier A)</strong>
 </td></tr>
 
 <tr ><td style="font-size:inherit;" ><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang<br> <a href="/files/%5BDAC-2022%5DEBSP_preprint.pdf">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized Deep Neural Networks</a>  <strong>(Acceptance Rate: 24.7%)</strong> 
@@ -77,21 +77,21 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICASSP 2022</strong><br>(Top Conf. in Signal Processing)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai<br> <a href="/files/%5BICASSP-22%5DDynSNN_preprint.pdf">Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks</a> <strong>(CCF Tier B)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;" ><strong>AAAI'22 (Oral)</strong><br>(Top Conf. in Artificial Intelligence)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang<br> <a href="[#](https://ojs.aaai.org/index.php/AAAI/article/view/20061)">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks</a> <strong>(Acceptance Rate: 15%)</strong> 
+<tr ><td style="font-size:inherit;" ><strong>AAAI'22 (Oral)</strong><br>(Top Conf. in Artificial Intelligence)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang<br> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20061">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks</a> <strong>(Acceptance Rate: 15%)</strong> 
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>Frontiers in Neuroscience, 2021</strong><br>(SCI Tier 2)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="[#](https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full)">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training</a> <strong>(Impact Factor: 4.7)</strong> 
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>Frontiers in Neuroscience, 2021</strong><br>(SCI Tier 2)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training</a> <strong>(Impact Factor: 4.7)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;" ><strong>ICCD 2021</strong></td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang<br> <a href="[#](https://ieeexplore.ieee.org/document/9643646)">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network</a> <strong>(Acceptance Rate: 24.4%)</strong> 
+<tr ><td style="font-size:inherit;" ><strong>ICCD 2021</strong></td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9643646">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network</a> <strong>(Acceptance Rate: 24.4%)</strong> 
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCV 2021</strong><br>(Top Conf. in Computer Vision)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang<br> <a href="[#](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html)">Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point</a> <strong>(Acceptance Rate: 25.9%)</strong> 
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCV 2021</strong><br>(Top Conf. in Computer Vision)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang<br> <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html">Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point</a> <strong>(Acceptance Rate: 25.9%)</strong> 
 </td></tr>
 
-<tr ><td style="font-size:inherit;" ><strong>ICCAD 2021</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang<br> <a href="[#](https://ieeexplore.ieee.org/document/9643569)">Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator</a> <strong>(Acceptance Rate: 23.5%)</strong> 
+<tr ><td style="font-size:inherit;" ><strong>ICCAD 2021</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9643569">Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator</a> <strong>(Acceptance Rate: 23.5%)</strong> 
 </td></tr>
 
 
