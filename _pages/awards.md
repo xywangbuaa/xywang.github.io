@@ -16,4 +16,5 @@ redirect_from:
 * Spark Award from HUAWEI, 2022.
 * SJTU Principal's Award, 2023
 * Shanghai Outstanding Graduate Award, 2023.
+* 2023 ACM Shanghai Doctoral Dissertation Award (only 3 students)
 * CCF Architecture Doctoral Dissertation Nomination, 2023.

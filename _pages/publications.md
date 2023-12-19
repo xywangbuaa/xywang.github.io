@@ -81,7 +81,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </td></tr>
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>Frontiers in Neuroscience, 2021</strong><br>(SCI Tier 2)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training</a> <strong>(Impact Factor: 4.7)</strong> 
+<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>Frontiers in Neuroscience, 2021</strong><br>(SCI Tier 2)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Wenbo Zhao=, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training</a> <strong>(Impact Factor: 4.7)</strong> 
 </td></tr>
 
 <tr ><td style="font-size:inherit;" ><strong>ICCD 2021</strong></td><td style="font-size:inherit;" > <strong>Fangxin Liu</strong>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9643646">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network</a> <strong>(Acceptance Rate: 24.4%)</strong> 

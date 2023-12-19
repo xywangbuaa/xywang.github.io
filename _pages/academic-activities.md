@@ -17,6 +17,10 @@ redirect_from:
 
 
 * Journal Reviewers
+  * Nature Computational Science
   * Transactions on Pattern Analysis and Machine Intelligence (TPMAI)
   * ACM Transactions on Design Automation of Electronic Systems (TODAES)
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+  * The Journal of Supercomputing (TJSC)
+  * IEEE Transactions on Circuits and Systems II (TCAS-II)
+  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
