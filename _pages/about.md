@@ -17,7 +17,9 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Oct./23/2023` Our paper "SPARK" have been accepted by HPCA 2024! Congratulations to Ning Yang.
+`Dec./29/2023` The "SPARK" acceleration framework has been reported in [Jiqizhixin](https://mp.weixin.qq.com/s/SvLTyAyY8mZEmPL4OZ5Bcw)(机器之心).
+
+`Oct./23/2023` Our paper "SPARK" has been accepted by HPCA 2024! Congratulations to Ning Yang.
 
 `Sep./09/2023` Our 4 papers have been accepted by ASP-DAC 2023! Congratulations to Haomin, Shiyuan, Tian Li.
 

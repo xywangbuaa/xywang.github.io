@@ -33,7 +33,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <strong>Fangxin Liu=</strong>, Yichi Chen, Li Jiang<br> <a href="#">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a>  <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
 
-<tr ><td style="font-size:inherit;"  ><strong>ICCD 2023</strong></td><td style="font-size:inherit;"  > Haomin Li=, <strong>Fangxin Liu=</strong>, Ning Yang=, Li Jiang<br> <a href="#">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a>  <strong>(Acceptance Rate: 28%)</strong>
+<tr ><td style="font-size:inherit;"  ><strong>ICCD 2023</strong></td><td style="font-size:inherit;"  > <strong>Fangxin Liu=</strong>, Ning Yang=, Li Jiang<br> <a href="#">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a>  <strong>(Acceptance Rate: 28%)</strong>
 </td></tr>
 
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCAD 2023</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <strong>Fangxin Liu=</strong>, Yichi Chen, Li Jiang<br> <a href="#">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
