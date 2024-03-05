@@ -16,13 +16,26 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <p align="left"><font size=13 style="background: #F7F7F7">**HPCA 2024** <br> **(Top Conf. in Computer Architecture)** <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  </font> </p>  -->
 
-<table width="100%" style="table-layout:auto;" style="font-size:inherit;" ><tr ><td bgcolor="#F7F7F7"><strong>HPCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  <strong>(Acceptance Rate: 18%)</strong>
+<table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
+
+<tr ><td bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#"> INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</a>  <strong>(Acceptance Rate: 23%)</strong>
+</td></tr>
+
+<tr ><td bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</a>  <strong>(Acceptance Rate: 23%)</strong>
+</td></tr>
+
+<tr ><td bgcolor="#F7F7F7"><strong>DATE 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Jiahao Sun, <strong>Fangxin Liu=</strong>, Yijian Zhang, Li Jiang and Rui Yang <br> <a href="#">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 Î¼s Collision Detection</a>  <strong>(Acceptance Rate: 24%)</strong>
+</td></tr>
+
+<tr ><td bgcolor="#F7F7F7"><strong>ASPLOS 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zhuoran Song, Chunyu Qi, <strong>Fangxin Liu=</strong>, Naifeng Jing, Xiaoyao Liang <br> <a href="#">CMC: Video Transformer Acceleration via CODEC  Assisted Matrix Condensing</a>  <strong>(Acceptance Rate: 24%)</strong>
+</td></tr>
+
+
+<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  <strong>(Acceptance Rate: 18%)</strong>
 </td></tr>
 
 <tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <strong>Fangxin Liu=</strong>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a> <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
-
-
 
 <tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <strong>Fangxin Liu=</strong>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a>  <strong>(Acceptance Rate: 29%)</strong>
 </td></tr>
