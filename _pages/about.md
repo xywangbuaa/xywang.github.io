@@ -19,6 +19,8 @@ News
 -----------
 `Mar./20/2024` Our "UM-PIM" Data re-layouted machnism have been accepted by ISCA 2024! Congratulations to Yilong.
 
+`Mar./18/2024` Fangxin Liu received 2023 Shanghai CCF Outstanding Dissertation Award.
+
 `Feb./27/2024` Our 2 papers have been accepted by DAC 2024! Congratulations to Ning Yang.
 
 `Dec./29/2023` The "SPARK" acceleration framework has been reported in [Jiqizhixin](https://mp.weixin.qq.com/s/SvLTyAyY8mZEmPL4OZ5Bcw)(机器之心).
