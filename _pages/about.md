@@ -17,7 +17,7 @@ The papers and related resources will be shared on my [Github](https://github.co
 
 News
 -----------
-`Mar./20/2024` Our "LowPASS" A ReRAM-based SNN Accelerator has been accepted by ISLPED 2024! Congratulations to Zongwu.
+`May/20/2024` Our "LowPASS" A ReRAM-based SNN Accelerator has been accepted by ISLPED 2024! Congratulations to Zongwu.
 
 `Mar./20/2024` Our "UM-PIM" Data re-layouted machnism has been accepted by ISCA 2024! Congratulations to Yilong.
 
