@@ -22,6 +22,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 <table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
 
+<tr ><td bgcolor="#F7F7F7"><strong>ISLPED 2024</strong><br>(Top Conf. in Low Power Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang <br> <a href="#"> LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a>  <strong>(Acceptance Rate: 21%)</strong>
+</td></tr>
+
 <tr ><td style="font-size:inherit;"><strong>ISCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Hanlin Dong, Tao Yang, Naifeng Jing, Xiaoyao Liang, Li Jiang <br> <a href="#"> UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a>  <strong>(Acceptance Rate: 18%)</strong>
 </td></tr>
 
