@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Fangxin Liu's Homepage"
+locale                   : "zh-CN"
+title                    : "Xueyan Wang's Homepage"
 title_separator          : "-"
-name                     : &name "Fangxin Liu"
+name                     : &name "Xueyan Wang"
 description              : &description "personal description"
-url                      : https://MXHX7199.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xywang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MXHX7199/MXHX7199.github.io"
+repository               : "xywangbuaa/xywang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fangxin Liu"
-  avatar           : "xinhuan.jpg" # "lhm.jpg"
-  bio              : "Assistant Professor @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
-  location1        : "800 DongChuan Road,"
-  location2        : "SEIEE Building #03-125,"
-  location3        : "Minhang District, Shanghai"
+  name             : "Xueyan Wang"
+  avatar           : "wangxueyan.jpg" # "lhm.jpg"
+  bio              : "Assistant Professor @ School of Integrated Circuit Science and Engineering. Beihang University"
+  location1        : "No.37, Xueyuan Road,"
+  location2        : "No.1 Building #204,"
+  location3        : "Haidian District, Beijing"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ"
-  email            : "liufangxin@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=9HquoMIAAAAJ&hl=zh-CN&oi=ao"
+  email            : "wangxueyan@buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MXHX7199"
+  github           : "xywangbuaa"
   google_plus      :
   keybase          :
   instagram        :
