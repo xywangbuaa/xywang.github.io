@@ -90,9 +90,3 @@ Current research interests focuses on:
 - Co-design and Acceleration of Software and Hardware (软硬件协同设计与加速)
 - Storage-Compute Integrated Architecture and Chip Design (存算一体架构与芯片设计)
 - Chip Security (芯片安全)
-
-
-Recent Visits to this Site
------------
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=sNUIIgL1WU3gnVp7Lq7JpnhV-2YGPzHk9c4NSyeNuIc&co=4c98ce'></script>
