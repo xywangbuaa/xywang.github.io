@@ -6,255 +6,82 @@ author_profile: true
 ---
 
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ">my Google Scholar profile</a>.</u>
+代表性论文：
 
-<font color=538F79>{=} denotes equal contribution; &emsp; {*} denotes corresponding author</font>
+第一/通讯作者：
 
+X. Ma et al., "A Combined Content Addressable Memory and In-Memory Processing Approach for k-Clique Counting Acceleration", 2024 ACM/IEEE Design Automation Conference (DAC). (通讯作者，CCF A 类、集成电路设计自动化领域顶级会议)
 
+Y. Wei et al., "PPGNN: Fast and Accurate Privacy-Preserving Graph Neural Network Inference via Parallel and Pipelined Arithmetic-and-Logic FHE Accelerator", 2024 ACM/IEEE Design Automation Conference (DAC). (通讯作者，CCF A 类、集成电路设计自动化领域顶级会议)
 
-<!-- |  **HPCA 2024** <br> **(Top Conf. in Computer Architecture)** | <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+Y. Huang et al., "LLP-ECCA: A Low-Latency and Programmable Framework for Elliptic Curve Cryptography Accelerators", accepted by 2024 International Test Conference in Asia (ITC-Asia). (通讯作者，集成电路测试领域著名会议)
 
+S. Zhang et al., "Triangle Counting Acceleration via Content Addressable Memory-Integrated 3D-Stacked Memory", accepted by 2024 International Test Conference in Asia (ITC-Asia). (通讯作者，集成电路测试领域著名会议)
 
-<p align="left"><font size=13 style="background: #F7F7F7">**HPCA 2024** <br> **(Top Conf. in Computer Architecture)** <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  </font> </p>  -->
+Y. Li et al., "APIM: An Antiferromagnetic MRAM-Based Processing-In-Memory System for Efficient Bit-level Operations of Quantized Convolutional Neural Networks," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2024.3372453. (通讯作者，CCF A类、集成电路设计自动化领域顶级期刊)
 
-<table width="100%" style="table-layout:auto;" style="font-size:inherit;" >
-<tr ><td style="font-size:inherit;"><strong>IEEE TPDS 2024</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, Haomin Li, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang <br> <a href="#"> Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</a>  <strong>(CCF Tier A)</strong>
-</td></tr>
+Y. Wei, X. Wang, S. Zhang, J. Yang, X. Jia, Z. Wang, G. Qu, W. Zhao, "IMGA: Efficient In-Memory Graph Convolution Network Aggregation with Data Flow Optimizations", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), doi: 10.1109/TCAD.2023.3288509. (通讯作者，CCF A类顶级期刊)
 
+X. Chen, X. Wang, X. Jia, J. Yang, G. Qu, W. Zhao, "Accelerating Graph Connected Component Computation with Emerging Processing-In-Memory Architecture", in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 41(12): 5333-5342, 2022. (通讯作者，CCF A类顶级期刊)
 
-<tr ><td bgcolor="#F7F7F7"><strong>ISLPED 2024</strong><br>(Top Conf. in Low Power Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Zongwu Wang, <u><b>Fangxin Liu*</b></u>, Longyu Zhao, Shiyuan Huang and Li Jiang <br> <a href="#"> LowPASS: A Low power PIM-based accelerator with Speculative Scheme for SNNs</a>  <strong>(Acceptance Rate: 21%)</strong>
-</td></tr>
+X. Wang, J. Yang, Y. Zhao, X. Jia, R. Yin, X. Chen, G. Qu, W. Zhao, "Triangle Counting Accelerations: From Algorithm to In-Memory Computing Architecture," in IEEE Transactions on Computers (TC), 71(10): 2462-2472, 2022. (CCF A类顶级期刊)
 
-<tr ><td style="font-size:inherit;"><strong>ISCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Yilong Zhao, Mingyu Gao, <u><b>Fangxin Liu*</b></u>, Yiwei Hu, Zongwu Wang, Han Lin, Ji Li, He Xian, Hanlin Dong, Tao Yang, Naifeng Jing, Xiaoyao Liang, Li Jiang <br> <a href="#"> UM-PIM: DRAM-based PIM with Uniform & Shared Memory Space</a>  <strong>(Acceptance Rate: 18%)</strong>
-</td></tr>
+X. Wang, J. Yang, Y. Zhao, Y. Qi, M. Liu, X. Cheng, X. Jia, X. Chen, G. Qu, and W. Zhao. Tcim: Triangle counting acceleration with processing-in-mram architecture. In 2020 57th ACM/IEEE Design Automation Conference (DAC), pages 1–6. IEEE, 2020. (CCF A 类，EDA领域最高会议，获得“最佳论文候选”)
 
+X. Wang, Q. Zhou, Y. Cai, and G. Qu. Toward a formal and quantitative evaluation framework for circuit obfuscation methods. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 38(10):1844–1857, 2019. (CCF A类顶级期刊)
 
-<tr ><td bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#"> INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</a>  <strong>(Acceptance Rate: 23%)</strong>
-</td></tr>
+Y. Li et al., "Toward Energy Efficient STT-MRAM-based Near Memory Computing Architecture for Embedded Systems," accepted by 2024 ACM Transactions on Embedded Computing Systems (通讯作者，嵌入式计算系统领域顶级期刊)
 
-<tr ><td style="font-size:inherit;"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</a>  <strong>(Acceptance Rate: 23%)</strong>
-</td></tr>
+Y. Wei, X. Wang, S. Bian, W. Zhao, Y. Jin, "THE-V: Verifiable Privacy-Preserving Neural Network via Trusted Homomorphic Execution", in 2023 IEEE/ACM International Conference on Computer-Aided Design (ICCAD).（通讯作者，集成电路设计自动化领域顶级会议）
 
-<tr ><td bgcolor="#F7F7F7"><strong>DATE 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Jiahao Sun, <u><b>Fangxin Liu=</b></u>, Yijian Zhang, Li Jiang and Rui Yang <br> <a href="#">RTSA: An RRAM-TCAM based In-Memory-Search Accelerator for Sub-100 Î¼s Collision Detection</a>  <strong>(Acceptance Rate: 24%)</strong>
-</td></tr>
+Z. Lu, X. Wang, et al., "An RRAM-Based Computing-in-Memory Architecture and Its Application in Accelerating Transformer Inference," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, doi: 10.1109/TVLSI.2023.3345651.（通讯作者，集成电路设计自动化领域顶级期刊）
 
-<tr ><td style="font-size:inherit;"><strong>ASPLOS 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"> Zhuoran Song, Chunyu Qi, <u><b>Fangxin Liu=</b></u>, Naifeng Jing, Xiaoyao Liang <br> <a href="#">CMC: Video Transformer Acceleration via CODEC  Assisted Matrix Condensing</a>  <strong>(Acceptance Rate: 24%)</strong>
-</td></tr>
+WANG Xueyan, CHEN Xuhang, JIA Xiaotao, YANG Jianlei, QU Gang, ZHAO Weisheng. Graph Algorithm Optimization for Spintronics-based In-memory Computing Architecture[J]. Journal of Electronics & Information Technology, 2023, 45(9): 3193-3199. doi: 10.11999/JEIT230371（获得“优秀推荐文章”）
 
+L. Yue, H. Zhang, X. Wang, H. Cai, Y. Zhang, S. Lv, R. Liu, W. Zhao, "Toward Energy-Efficient Sparse Matrix-Vector Multiplication with Near STT-MRAM Computing Architecture," 2023 28th Asia and South Pacific Design Automation Conference (ASP-DAC), Tokyo, Japan, 2023, pp. 222-227. (通讯作者，EDA领域著名会议)
 
-<tr ><td bgcolor="#F7F7F7"><strong>HPCA 2024</strong><br>(Top Conf. in Computer Architecture)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Ning Yang=, Haomin Li, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang <br> <a href="#">SPARK: Scalable and Precision-Aware Acceleration of Neural  Networks via Efficient Encoding</a>  <strong>(Acceptance Rate: 18%)</strong>
-</td></tr>
+X. Wang, J. Yang, Y. Zhao, X. Jia, G. Qu, and W. Zhao. Hardware security in spin-based computing-in-memory: Analysis, exploits, and mitigation techniques. ACM Journal on Emerging Technologies in Computing Systems (JETC), 16(4):1–18, 2020.
 
-<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</a> <strong>(Acceptance Rate: 29%)</strong>
-</td></tr>
+X. Wang, Q. Zhou, Y. Cai, and G. Qu. Parallelizing sat-based de-camouflaging attacks by circuit partitioning and conflict avoiding. Integration, 67:108–120, 2019.
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang <br> <a href="#">TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</a>  <strong>(Acceptance Rate: 29%)</strong>
-</td></tr>
+X. Wang, Q. Zhou, Y. Cai, and G. Qu. A conflict-free approach for parallelizing sat-based de-camouflaging attacks. In 2018 23rd Asia and South Pacific Design Automation Conference (ASP-DAC), pages 259–264. IEEE, 2018. (接收率：32%)
 
-<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > Shiyuan Huang=, <u><b>Fangxin Liu=</b></u>, Tian Li, Zongwu Wang, Haomin Li, Li Jiang<br> <a href="#">TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</a>  <strong>(Acceptance Rate: 29%)</strong>
-</td></tr>
+X. Wang, Q. Zhou, Y. Cai, and G. Qu. Spear and shield: Evolution of integrated circuit camouflaging. Journal of Computer Science and Technology (JCST), 33(1):42–57, 2018. (CCF B类期刊)
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ASPDAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang<br> <a href="#">HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</a>  <strong>(Acceptance Rate: 29%)</strong>
-</td></tr>
+X. Wang, M. Gao, Q. Zhou, Y. Cai, and G. Qu. Gate camouflaging-based obfuscation. In Hardware Protection through Obfuscation, pages 89–102. Springer, 2017. (专著)
 
-<tr ><td style="font-size:inherit;"  ><strong>ICCD 2023</strong></td><td style="font-size:inherit;"  > <u><b>Fangxin Liu=</b></u>, Ning Yang=, Li Jiang<br> <a href="#">PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture</a>  <strong>(Acceptance Rate: 28%)</strong>
-</td></tr>
+X. Wang, Q. Zhou, Y. Cai, and G. Qu. An empirical study on gate camouflaging methods against circuit partition attack. In Proceedings of the on Great Lakes Symposium on VLSI (GLSVLSI), pages 345–350, 2017. (接收率：24%)
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCAD 2023</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Haomin Li=, <u><b>Fangxin Liu=</b></u>, Yichi Chen, Li Jiang<br> <a href="#">HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
-</td></tr>
+X. Wang, Y. Cai, and Q. Zhou. Cell spreading optimization for force-directed global placers. In 2017 IEEE International Symposium on Circuits and Systems (ISCAS), pages 1–4. IEEE, 2017.
 
+X. Wang, X. Jia, Q. Zhou, Y. Cai, J. Yang, M. Gao, and G. Qu. Secure and low-overhead circuit obfuscation technique with multiplexers. In 2016 International Great Lakes Symposium on VLSI (GLSVLSI), pages 133–136. IEEE, 2016. (接收率：25%)
 
-<tr ><td style="font-size:inherit;" ><strong>IEEE TC 2023</strong><br>(Top Journal in Computer Architecture)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/10177200">ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity</a>  <strong>(CCF Tier A)</strong>
-</td></tr>
+X. Wang,, Q. Zhou, Y. Cai, and G. Qu. Is the secure ic camouflaging really secure? In 2016 IEEE International Symposium on Circuits and Systems (ISCAS), pages 1710–1713. IEEE, 2016.
 
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2024</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</a>  <strong>(Acceptance Rate: 23%)</strong>
-</td></tr>
 
 
-<tr ><td style="font-size:inherit;" ><strong>ICCD 2022</strong></td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Li Jiang<br> <a href="#">Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs</a>  <strong>(Acceptance Rate: 24%)</strong>
-</td></tr>
+部分其他论文：
 
+C. Duan et al., "DDC-PIM: Efficient Algorithm/Architecture Co-design for Doubling Data Capacity of SRAM-Based Processing-In-Memory," in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, doi: 10.1109/TCAD.2023.3330819.
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu</b></u>, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9769275">SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator</a>  <strong>(CCF Tier A)</strong>
-</td></tr>
+H. Gu et al., "CiM-BNN:Computing-in-MRAM Architecture for Stochastic Computing Based Bayesian Neural Network," in IEEE Transactions on Emerging Topics in Computing, doi: 10.1109/TETC.2023.3317136.
 
+X. Jia et al., "An Energy-Efficient Bayesian Neural Network Implementation Using Stochastic Computing Method," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2023.3265533.
 
-<tr ><td style="font-size:inherit;" ><strong>SIGIR 2022</strong><br>(Top Conf. in Information Retrieval)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Haomin Li, Xiaokang Yang, Li Jiang<br> <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761">L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</a>  <strong>(Acceptance Rate: 24%)</strong>
-</td></tr>
+X. Jia, H. Gu, Y. Liu, J. Yang, X. Wang, W. Pan, Y. Zhang, S. D. Cotofana, and W. Zhao, An Energy-Efficient Bayesian Neural Network Implementation Using Stochastic Computing Method, in IEEE Transactions on Neural Networks and Learning Systems (TNNLS), doi: 10.1109/TNNLS.2023.3265533.
 
+X. Jia, J. Yang, R. Liu, X. Wang, S. D. Cotofana, and W. Zhao. Efficient computation reduction in bayesian neural networks through feature decomposition and memorization. IEEE transactions on neural networks and learning systems (TNNLS), 32(4):1703–1712, 2020.
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>IEEE TCAD 2022</strong><br>(Top Journal in Computer-Aided Design)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/972425">IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization</a>  <strong>(CCF Tier A)</strong>
-</td></tr>
+Y. Pan, X. Jia, Z. Cheng, P. Ouyang, X. Wang, J. Yang, and W. Zhao. An stt-mram based reconfigurable computing-in-memory architecture for general purpose computing. CCF Transactions on High Performance Computing, 2(3):272–281, 2020.
 
-<tr ><td style="font-size:inherit;" ><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang<br> <a href="/files/%5BDAC-2022%5DEBSP_preprint.pdf">EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized Deep Neural Networks</a>  <strong>(Acceptance Rate: 24.7%)</strong> 
-</td></tr>
+Y. Zhao, J. Yang, X. Jia, X. Wang, Z. Wang, W. Kang, Y. Zhang, and W. Zhao. Exploiting near-memory processing architectures for bayesian neural networks acceleration. In 2019 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), pages 203–206. IEEE, 2019.
 
+J. Yang, X. Wang, Q. Zhou, Z. Wang, H. Li, Y. Chen, and W. Zhao. Exploiting spin-orbit torque devices as reconfigurable logic for circuit obfuscation. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 38(1):57–69, 2018.
 
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Qidong Tang, Tao Yang, Cheng Zhuo<br> <a href="/files/%5BDAC-2022%5DPIM-DH_preprint.pdf">PIM-DH: ReRAM based Processing in Memory Architecture for Deep Hashing Acceleration</a> <strong>(Acceptance Rate: 24.7%)</strong> 
-</td></tr>
+S. Jiang, N. Xu, X. Wang, and Q. Zhou. An efficient technique to reverse engineer minterm protection based camouflaged circuit. Journal of Computer Science and Technology (JCST), 33(5):998–1006, 2018.
 
-<tr ><td style="font-size:inherit;" ><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang<br> <a href="/files/%5BDAC-2022%5DSATO_preprint.pdf">SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture</a> <strong>(Acceptance Rate: 24.7%)</strong> 
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICASSP 2022</strong><br>(Top Conf. in Signal Processing)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai<br> <a href="/files/%5BICASSP-22%5DDynSNN_preprint.pdf">Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks</a> <strong>(CCF Tier B)</strong> 
-</td></tr>
-
-<tr ><td style="font-size:inherit;" ><strong>AAAI'22 (Oral)</strong><br>(Top Conf. in Artificial Intelligence)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang<br> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20061">SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks</a> <strong>(Acceptance Rate: 15%)</strong> 
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>Frontiers in Neuroscience, 2021</strong><br>(SCI Tier 2)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Wenbo Zhao=, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full">SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training</a> <strong>(Impact Factor: 4.7)</strong> 
-</td></tr>
-
-<tr ><td style="font-size:inherit;" ><strong>ICCD 2021</strong></td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9643646">SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network</a> <strong>(Acceptance Rate: 24.4%)</strong> 
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICCV 2021</strong><br>(Top Conf. in Computer Vision)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang<br> <a href="https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html">Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point</a> <strong>(Acceptance Rate: 25.9%)</strong> 
-</td></tr>
-
-<tr ><td style="font-size:inherit;" ><strong>ICCAD 2021</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > <u><b>Fangxin Liu</b></u>, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang<br> <a href="https://ieeexplore.ieee.org/document/9643569">Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator</a> <strong>(Acceptance Rate: 23.5%)</strong> 
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>GLSVLSI 2021</strong></td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> <u><b>Fangxin Liu=</b></u>, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang<br> <a href="https://dl.acm.org/doi/abs/10.1145/3453688.3461491">IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration</a> <strong>(Acceptance Rate: 24%)</strong> 
-</td></tr>
-
-<tr ><td style="font-size:inherit;" ><strong>ICMR 2022</strong></td><td style="font-size:inherit;" > Yongbiao Chen, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval</a>
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>ICMR 2022</strong></td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Yongbiao Chen, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">Supervised Contrastive Vehicle Quantization for Efficient Vehicle Retrieval</a>
-</td></tr>
-
-<tr ><td style="font-size:inherit;" ><strong>DATE 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > Zongwu Wang, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing</a> <strong>(Best Paper Award)</strong>
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DATE 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Tao Yang, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture</a> <strong>(Nominated for Best Paper)</strong>
-</td></tr>
-
-<tr ><td style="font-size:inherit;" ><strong>ASPDAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;" > Qidong Tang, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine</a>
-</td></tr>
-
-
-<tr ><td style="font-size:inherit;"  bgcolor="#F7F7F7"><strong>DAC 2022</strong><br>(Top Conf. in Design Automation)</td><td style="font-size:inherit;"  bgcolor="#F7F7F7"> Tao Yang, <u><b>Fangxin Liu</b></u>, et al.<br> <a href="#">PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration</a>
-</td></tr>
-</table>
-
-<!-- to appear in 30th IEEE International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ). **(Top Conference in Computer Architecture, Acceptance Rate: 18%).**  -->
-
-<!-- --------
-**Fangxin Liu**=, Haomin Li=, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
---------
-**Fangxin Liu**=, Haomin Li=, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang, "TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
---------
-Shiyuan Huang=, **Fangxin Liu**=, Tian Li, Zongwu Wang, Haomin Li, Li Jiang, "TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
---------
-Haomin Li=, **Fangxin Liu**=, Yichi Chen, Li Jiang, "HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 29%).** 
-
-
---------
-**Fangxin Liu**=, Ning Yang=, Li Jiang, "PSQ: An Automatic Search Framework for Data-Free Quantization on PIM-based Architecture." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'23 </font> ). **(Acceptance Rate: 28%).** 
-
---------
-
-Haomin Li=, **Fangxin Liu**=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 23%).** 
-
---------
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Xiaoyao Liang, Li Jiang, "ERA-BS: Boosting the Efficiency of ReRAM-based PIM Accelerator with Fine-Grained Bit-Level Sparsity." to appear in IEEE Transactions on Computers 2023 ( <font color="#2a9d8f">TC'2023</font>). **(Top Journal in Computer Architecture, CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/10177200)
-
-
---------
-**Fangxin Liu**=, Haomin Li=, Zongwu Wang, Yongbiao Chen, Li Jiang, "HyperAttack: An Efficient Attack Framework for HyperDimensional Computing ." to appear in 60th Design Automation Conference ( <font color="#2a9d8f">DAC'23</font>). **(Top Conference in Design Automation, Acceptance Rate: 23%).**
-
---------
-**Fangxin Liu**, Zongwu Wang, Yongbiao Chen, Li Jiang, "Randomize and Match: Exploiting Irregular Sparsity for Energy Efficient Processing in SNNs ." to appear in 40th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'22</font>). **(Acceptance Rate: 24%).**
-
---------
-**Fangxin Liu**, Zongwu Wang, Yongbiao Chen, Zhezhi He, Tao Yang, Xiaoyao Liang, Li Jiang, "SoBS-X: Squeeze-Out Bit Sparsity for ReRAM-Crossbar-Based Neural Network Accelerator.", IEEE Transactions on Computer Aided Design of Integrated Circuits and Systems ( <font color="#2a9d8f">IEEE TCAD</font>), 2022. **(Top Journal in Computer-Aided Design, CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/9769275)
-
---------
-**Fangxin Liu**, Haomin Li, Xiaokang Yang, Li Jiang, "L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks." to appear in 45th International ACM SIGIR Conference on Research and Development in Information Retrieval ( <font color="#2a9d8f">SIGIR'22 </font> ). **(Top Conference in  Information Retrieval, Acceptance Rate: 24.7%).** [Code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC) [Link](https://dl.acm.org/doi/abs/10.1145/3477495.3531761)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yilong Zhao, Tao Yang, Yiran Chen, Li Jiang,  "IVQ: In-Memory Acceleration of DNN Inference Exploiting Varied Quantization." to appear in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems ( <font color="#2a9d8f"> IEEE TCAD </font> ). **(Top Journal in Computer-Aided Design, CCF Tier A).** [Link](https://ieeexplore.ieee.org/document/972425)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Zhezhi He, Naifeng Jing, Xiaoyao Liang, Li Jiang, "EBSP: Evolving Bit Sparsity Patterns for Hardware Friendly Inference of Quantized Deep Neural Networks." to appear in 59th ACM/IEEE Design Automation Conference ( <font color="#2a9d8f"> DAC'22 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 24.7%).** [Slides](/files/%5BDAC-2022%5DEBSP_slides.pdf) [Link](/files/%5BDAC-2022%5DEBSP_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Zhezhi He, Rui Yang, Qidong Tang, Tao Yang, Cheng Zhuo, Li Jiang, "PIM-DH: ReRAM based Processing in Memory Architecture for Deep Hashing Acceleration." to appear in 59th ACM/IEEE Design Automation Conference ( <font color="#2a9d8f">DAC'22 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 24.7%).** [Slides](/files/%5BDAC-2022%5DPIM-DH_slides.pdf) [Link](/files/%5BDAC-2022%5DPIM-DH_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Yongbiao Chen, Tao Yang, Zhezhi He, Xiaokang Yang, Li Jiang, "SATO: Spiking Neural Network Acceleration via Temporal Oriented Dataflow and Architecture." to appear in 59th ACM/IEEE Design Automation Conference ( <font color="#2a9d8f">DAC'22 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 24.7%).** [Slides](/files/%5BDAC-2022%5DSATO_slides.pdf) [Link](/files/%5BDAC-2022%5DSATO_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Yongbiao Chen, Zongwu Wang, Fei Dai,  "Dynsnn: A dynamic approach to reduce redundancy in spiking neural networks." to appear in 47th IEEE International Conference on Acoustics, Speech and Signal Processing ( <font color="#2a9d8f">ICASSP'22 </font> ). **(Top Conference in Signal Processing, CCF Tier B).** [Slides](/files/%5BICASSP-22%5DDynSNN_poster.pdf) [Link](/files/%5BICASSP-22%5DDynSNN_preprint.pdf)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Li Jiang, "SpikeConverter: An Efficient Conversion Framework Zipping the Gap between Artificial Neural Networks and Spiking Neural Networks." to appear in 36th AAAI Conference on Artificial Intelligence ( <font color="#2a9d8f">AAAI'22 (Oral)</font> ). **(Top Conference in Artificial Intelligence, Acceptance Rate: 15%).** [Poster](/files/%5BAAAI-22%5DSpikeConverter_poster.pdf) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/20061) [News](href="https://mp.weixin.qq.com/s/OZ-dsdwqGqUJWUqQretclQ") [Talk](href="https://www.bilibili.com/video/BV1fr4y1s7dK")
-
---------
-
-**Fangxin Liu**, Wenbo Zhao*, Yongbiao Chen, Zongwu Wang, Tao Yang, Li Jiang, "SSTDP: Supervised Spike Timing Dependent Plasticity for Efficient Spiking Neural Network Training." to appear in Frontiers in Neuroscience, 15 (2021)( <font color="#2a9d8f">SCI Tier 2</font> ). **(Impact Factor 4.2).** [Code](https://github.com/MXHX7199/SNN-SSTDP) [Link](https://www.frontiersin.org/articles/10.3389/fnins.2021.756876/full)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Tao Yang, Jingnai Feng, Xiaoyao Liang, Li Jiang, "SME: ReRAM-based Sparse-Multiplication-Engine to Squeeze-Out Bit Sparsity of Neural Network." to appear in 39th IEEE International Conference on Computer Design ( <font color="#2a9d8f">ICCD'21 </font> ). **(Acceptance Rate: 24.4%).** [Slides](/files/%5BICCD-21%5DSME_slides.pdf) [Link](https://ieeexplore.ieee.org/document/9643646)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Yanzhi Wang, Zongwu Wang, Changzhi Dai, Xiaoyao Liang, Li Jiang, "Improving Neural Network Efficiency via Post-training Quantization with Adaptive Floating-Point.." to appear in International Conference on Computer Vision 2021 ( <font color="#2a9d8f">ICCV'21 </font> ). **(Top Conference in  Computer Vision, Acceptance Rate: 25.9%).** [Poster](/files/%5BICCV-21%5DAFP_poster.pdf) [Link](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Improving_Neural_Network_Efficiency_via_Post-Training_Quantization_With_Adaptive_Floating-Point_ICCV_2021_paper.html)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zhezhi He, Zongwu Wang, Yilong Zhao, Yongbiao Chen, Li Jiang,  "Bit-Transformer: Transforming Bit-level Sparsity into Higher Preformance in ReRAM-based Accelerator." to appear in 40th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'21 </font> ). **(Top Conference in Design Automation, Acceptance Rate: 23.5%).** [Slides](/files/%5BICCAD-21%5DBit-Transformer_preprint.pdf) [Link](https://ieeexplore.ieee.org/document/9643569)
-
---------
-
-**Fangxin Liu**, Wenbo Zhao, Zongwu Wang, Tao Yang, Li Jiang, "IM3A: Boosting Deep Neural Network Efficiency via In-Memory Addressing-Assisted Acceleration." to appear in 31st Great Lakes Symposium on VLSI  ( <font color="#2a9d8f">GLSVLSI'21 </font> ). **(Acceptance Rate: 24%).** [Link](https://dl.acm.org/doi/abs/10.1145/3453688.3461491)
-
---------
-
-Yongbiao Chen, **Fangxin Liu**, et al. "TransHash: Transformer-based Hamming Hashing for Efficient Image Retrieval." to appear in ACM International Conference on Multimedia Retrieval 2022( <font color="#2a9d8f">ICMR'22 </font> ). **(Acceptance Rate: 30%).** [Link](https://dl.acm.org/doi/abs/10.1145/3512527.3531405)
-
---------
-
-
-Yongbiao Chen, **Fangxin Liu**, et al. "Supervised Contrastive Vehicle Quantization for Efficient Vehicle Retrieval.." to appear in ACM International Conference on Multimedia Retrieval 2022( <font color="#2a9d8f">ICMR'22 </font> ). **(Acceptance Rate: 30%).** [Link](https://dl.acm.org/doi/abs/10.1145/3512527.3531432)
-
---------
-
-
-Zongwu Wang, **Fangxin Liu**, et al. "Self-Terminated Write of Multi-Level Cell ReRAM for Efficient Neuromorphic Computing." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(Best Paper Award)).** [Slides](/files/%5BDATE-22%5DSTW_slides.pdf) [Link](/files/%5BDATE-22%5DSTW_preprint.pdf)
-
---------
-
-
-Tao Yang, **Fangxin Liu**, et al. "DTQAtten: Leveraging Dynamic Token-based Quantization for Efficient Attention Architecture." to appear in 25th Design, Automation and Test in Europe Conference ( <font color="#2a9d8f">DATE'22 </font> ). **(nominated for best paper award).** [Slides](/files/%5BDATE-22%5DDTQAtten_slides.pdf) [Link](/files/%5BDATE-22%5DDTQAtten_slides.pdf)
-
---------
-
-Qidong Tang, **Fangxin Liu**, et al. "HAWIS: Hardware-Aware Automated WIdth Search for Accurate, Energy-Efficient and Robust Binary Neural Network on ReRAM Dot-Product Engine." to appear in 27th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASP-DAC'22 </font> ). **(Acceptance Rate: 36.5%).** [Slides](/files/%5BASPDAC-22%5DHAWIS_slides.pdf) [Link](/files/%5BASPDAC-22%5DHAWIS_preprint.pdf)
-
---------
-
-Tao Yang, **Fangxin Liu**, et al. "PIMGCN: A ReRAM-based PIM Design for Graph Convolutional Network Acceleration." to appear in Design Automation Conference ( <font color="#2a9d8f">DAC'21 </font> ). **(Acceptance Rate: 26.5%).**  [Link](https://ieeexplore.ieee.org/abstract/document/9586231)
+Q. Zhou, X. Wang, Z. Qi, Z. Chen, Q. Zhou, and Y. Cai. An accurate detailed routing routability prediction model in placement. In 2015 6th Asia Symposium on Quality Electronic Design (ASQED), pages 119–122. IEEE, 2015.
 
 --------
 <!-- {% for post in site.publications reversed %}
