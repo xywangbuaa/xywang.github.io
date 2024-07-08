@@ -9,18 +9,19 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-* Conference Reviewers
-  * AAAI Conference on Artificial Intelligence (AAAI), 2023
-  * Great Lakes Symposium on VLSI (GLSVLSI), 2022
-  * Design Automation Conference (DAC), 2022
-  * Great Lakes Symposium on VLSI (GLSVLSI), 2021
+* Reviewers
+  * ACM TODAES
+  * IEEE TCAD
+  * IEEE TNANO
+  * DATE
 
-
-* Journal Reviewers
-  * Nature Computational Science
-  * Transactions on Pattern Analysis and Machine Intelligence (TPMAI)
-  * ACM Transactions on Design Automation of Electronic Systems (TODAES)
-  * IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
-  * The Journal of Supercomputing (TJSC)
-  * IEEE Transactions on Circuits and Systems II (TCAS-II)
-  * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+* TPC Members
+  * IEEE DATE 2024/2023/2022
+  * ACM/IEEE ASP-DAC 2022/2021/2020
+  * IEEE SOCC 2024/2023/2022/2021/2020
+  * ACM GLSVLSI 2020
+  
+* Session Chair
+  * ACM/IEEE ASP-DAC 2022/2020
+  * CFTC 2019
+  
