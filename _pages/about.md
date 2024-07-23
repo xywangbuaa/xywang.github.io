@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Xueyan Wang, an Assistant Professor at the School of Integrated Circuits Science and Engineering, Beihang University, has been recognized as a part of the 9th China Association for Science and Technology "Young Talents Support Project."
+Xueyan Wang, an associate professor at the School of Integrated Circuits Science and Engineering, Beihang University, has been recognized as a part of the 9th China Association for Science and Technology "Young Talents Support Project."
 
 In 2013, she earned her Bachelor's degree in Computer Science and Technology from Shandong University, where she was honored as an "Outstanding Graduate." She was then recommended for direct Ph.D. admission to Tsinghua University's Department of Computer Science and Technology. In 2018, she received her Ph.D. in Engineering, co-trained with the University of Maryland, College Park.
 
