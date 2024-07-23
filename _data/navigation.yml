@@ -18,8 +18,8 @@ main:
   - title: "Academic Activities"
     url: /academic-activities/
   
-  # - title: "Selected Projects"
-  #  url: /selected-projects/
+  - title: "Research Directions"
+    url: /selected-projects/
   
     
   # - title: "Guide"
